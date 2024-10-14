@@ -8,3 +8,7 @@ This is the list of provided scripts:
 
 Laptop
 
+## MSI RX580 8GB
+
+GPU
+
