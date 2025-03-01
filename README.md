@@ -6,9 +6,21 @@ This is the list of provided scripts:
 
 ## ASUS R510J
 
-Laptop
+ASUS R510K laptop
 
 ## MSI RX580 8GB
 
 GPU
+
+## Lenovo Thinkpad T480
+
+Lenovo Thinkpad laptop
+
+## Upgrade PC gaming
+
+PC gaming modding
+
+## Silverstone NAS server
+
+NAS server
 
