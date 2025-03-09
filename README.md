@@ -24,3 +24,6 @@ PC gaming modding
 
 NAS server
 
+## AI training node
+
+Artificial intelligence training node
